@@ -3,7 +3,7 @@ package TPo;
 import java.time.LocalDate;
 import java.time.LocalTime;
 
-public class Evento {
+public class EventoPersonal {
     public LocalDate fechaEvento;
     public String descripcionEvento;
     public LocalTime horaEvento;
